@@ -1,5 +1,10 @@
 # Dictionary
 دیکشنری آنلاین
+
+
+
+
+
 ![1](https://user-images.githubusercontent.com/101221304/173012147-57e32237-9a88-4f7c-ae2b-f265ab5198e8.png)
 .
 
